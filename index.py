@@ -1,8 +1,7 @@
 from glob import glob
 from io import BytesIO
-from PIL import Image, ImageDraw
+from PIL import Image
 from os import path
-#from svglib.svglib import svg2rlg
 from cairosvg import svg2png
 
 
