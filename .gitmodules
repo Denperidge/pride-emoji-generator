@@ -1,0 +1,3 @@
+[submodule "vendor/Zaimki"]
+	path = vendor/Zaimki
+	url = https://gitlab.com/Avris/Zaimki.git
